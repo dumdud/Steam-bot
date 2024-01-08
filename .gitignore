@@ -1,0 +1,10 @@
+#folders
+.venv/
+.vscode/
+__pychache__/
+#files
+admins.txt
+logging.log
+*_sentry.bin
+*.json
+test.py
